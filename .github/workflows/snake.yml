@@ -1,3 +1,5 @@
+# 커밋 먹는 뱀 그래프 생성을 위한 GitHub Action🐍
+
 name: Generate Snake
 
 # Action이 언제 구동될지 결정
@@ -31,7 +33,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
 
@@ -40,4 +42,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
