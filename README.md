@@ -13,6 +13,6 @@
   <br>
   <br>
   
- &nbsp;&nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkm5291&show_icons=true&theme=radical) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gorchid)](https://solved.ac/gorchid/)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkm5291&show_icons=true&theme=radical) &nbsp;&nbsp;  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gorchid)](https://solved.ac/gorchid/)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![snake gif](https://github.com/kkm5291/kkm5291/blob/output/github-contribution-grid-snake.svg)
 </p>
