@@ -1,5 +1,3 @@
-<h1 align="center"> hi 👋 </h1>
-
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></a>&nbsp
@@ -14,7 +12,4 @@
   <br>
   
   </p>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkm5291&show_icons=true&theme=radical) &nbsp;  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gorchid)](https://solved.ac/gorchid/)
-![snake gif](https://github.com/kkm5291/kkm5291/blob/output/github-contribution-grid-snake.svg)
 
