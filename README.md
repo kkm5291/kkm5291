@@ -1,7 +1,7 @@
 ## Personal Information
 - name : kyungmo kim
 
-## Carrer
+## Career
 - (24.03 - Now) [POSOD] (https://posod.co.kr/) - backend web dev
 
 ## Article
