@@ -2,7 +2,7 @@
 - name : kyungmo kim
 
 ## Career
-- (24.03 - Now) [POSOD] (https://posod.co.kr/) - backend web dev
+- (24.03 - Now) [POSOD] (https://posod.co.kr/) - backend dev
 
 ## Article
 - [알림 프로세스 성능 개선 : **kafka** 를 통한 느슨한 결합] (https://kkm23125291.tistory.com/3)
